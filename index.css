@@ -218,7 +218,7 @@
 .home-heading {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text03 {
+.home-text {
   color: var(--dl-color-gray-500);
   margin-bottom: var(--dl-space-space-tripleunit);
 }
@@ -262,12 +262,12 @@
   margin-bottom: var(--dl-space-space-fiveunits);
   flex-direction: column;
 }
-.home-text04 {
+.home-text01 {
   font-size: 48px;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text05 {
+.home-text02 {
   color: var(--dl-color-gray-500);
   text-align: center;
 }
@@ -299,7 +299,7 @@
 .home-heading1 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text06 {
+.home-text03 {
   color: var(--dl-color-gray-500);
   text-align: center;
 }
@@ -321,7 +321,7 @@
 .home-heading2 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text07 {
+.home-text04 {
   color: var(--dl-color-gray-500);
   text-align: center;
 }
@@ -343,7 +343,7 @@
 .home-heading3 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text08 {
+.home-text05 {
   color: var(--dl-color-gray-500);
   text-align: center;
 }
@@ -375,11 +375,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text09 {
+.home-text06 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text10 {
+.home-text07 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -414,11 +414,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text11 {
+.home-text08 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text12 {
+.home-text09 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -452,11 +452,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text13 {
+.home-text10 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text14 {
+.home-text11 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -490,11 +490,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text15 {
+.home-text12 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text16 {
+.home-text13 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -529,7 +529,7 @@
   margin-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
 }
-.home-text17 {
+.home-text14 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
 .home-secondary-text {
@@ -554,10 +554,10 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text18 {
+.home-text15 {
   color: var(--dl-color-gray-500);
 }
-.home-text19 {
+.home-text16 {
   color: var(--dl-color-gray-500);
 }
 .home-cta-btn4 {
@@ -592,7 +592,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
 }
-.home-text20 {
+.home-text17 {
   margin-bottom: var(--dl-space-space-fiveunits);
 }
 .home-cards-container1 {
@@ -679,7 +679,7 @@
   width: 24px;
   height: 24px;
 }
-.home-text21 {
+.home-text18 {
   color: var(--dl-color-gray-500);
   text-align: left;
 }
@@ -758,7 +758,7 @@
   width: 24px;
   height: 24px;
 }
-.home-text22 {
+.home-text19 {
   color: var(--dl-color-gray-500);
   text-align: left;
 }
@@ -837,7 +837,7 @@
   width: 24px;
   height: 24px;
 }
-.home-text23 {
+.home-text20 {
   color: var(--dl-color-gray-500);
   text-align: left;
 }
@@ -866,7 +866,7 @@
   border-right-width: 0px;
   border-bottom-width: 0px;
 }
-.home-text24 {
+.home-text21 {
   margin-top: var(--dl-space-space-fiveunits);
   margin-bottom: var(--dl-space-space-fiveunits);
 }
@@ -1057,7 +1057,7 @@
   .home-heading {
     text-align: center;
   }
-  .home-text03 {
+  .home-text {
     text-align: center;
   }
   .home-cta-btn2 {
@@ -1100,13 +1100,13 @@
   .home-heading-container1 {
     align-items: center;
   }
-  .home-text17 {
+  .home-text14 {
     text-align: center;
   }
   .home-secondary-text {
     text-align: center;
   }
-  .home-text20 {
+  .home-text17 {
     text-align: center;
   }
   .home-cards-container1 {
@@ -1190,7 +1190,7 @@
   .home-secondary-text {
     text-align: center;
   }
-  .home-text20 {
+  .home-text17 {
     text-align: center;
   }
   .home-testimonial-card {
@@ -1206,7 +1206,7 @@
     padding-left: 0px;
     padding-right: 0px;
   }
-  .home-text24 {
+  .home-text21 {
     text-align: center;
   }
   .home-locations-container {
